@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+.lists{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.card{
+    width: 30rem;
+}
+img{
+    width:25rem;
+    height: 25rem;
+}
+.formulaire{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+}
+.video{
+    text-align: center;
+    margin-top: 6%;
+}
